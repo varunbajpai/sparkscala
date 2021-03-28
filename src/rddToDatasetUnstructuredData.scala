@@ -14,7 +14,9 @@
 //import org.apache.spark.sql.SaveMode
 //
 //
-//object rddToDatasetUnstructuredData extends App{
+object rddToDatasetUnstructuredData extends App{
+  
+}
 //  val myregex = """^(\S+) (\S+) (\S+) (\S+)\,(\S+)""".r
 //  
 //  case class Orders(order_id:Int,customer_id:Int,order_status:String)
